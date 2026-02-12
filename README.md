@@ -1,4 +1,4 @@
 # apanacollege-demo
 This is my first git repository
 <br>
-Author-K MADHU
+Author-K MADHU maddy
